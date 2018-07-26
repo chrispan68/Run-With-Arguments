@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RunWithArguments:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RunWithArguments_jar</output-path>
+    <root id="archive" name="RunWithArguments.jar">
+      <element id="module-output" name="RunWithArguments" />
+    </root>
+  </artifact>
+</component>
