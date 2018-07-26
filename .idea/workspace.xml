@@ -74,9 +74,10 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="949" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+    <option name="x" value="81" />
+    <option name="y" value="4" />
+    <option name="width" value="981" />
+    <option name="height" value="1020" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -101,13 +102,6 @@
               <item name="RunWithArguments" type="462c0819:PsiDirectoryNode" />
               <item name="out" type="462c0819:PsiDirectoryNode" />
               <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RunWithArguments" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RunWithArguments" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
-              <item name="RunWithArguments_jar" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RunWithArguments" type="b2602c69:ProjectViewProjectNode" />
@@ -230,10 +224,11 @@
       <window_info id="Designer" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4952381" visible="true" weight="0.62672067" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3297619" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.31842577" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Event Log" order="9" side_tool="true" weight="0.3263158" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.7334526" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.73202616" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32119206" />
       <window_info id="Favorites" order="5" sideWeight="0.50476193" side_tool="true" weight="0.79945946" />
@@ -253,7 +248,6 @@
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32864866" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3164251" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.31842577" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Theme Preview" order="4" />
