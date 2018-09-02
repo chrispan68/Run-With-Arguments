@@ -115,7 +115,7 @@ public class DebugWithArguments extends AnAction {
             config.setActivateToolWindowBeforeRun(prev.isActivateToolWindowBeforeRun());
             config.setShared(prev.isShared());
             config.setSingleton(prev.isSingleton());
-            config.setEditBeforeRun(prev.isEditBeforeRun());
+            config.setEditBeforeRun(false);
             rm.addConfiguration(config);
             rm.setSelectedConfiguration(config); //sets the configuration as the current selected configuration
             ProgramRunnerUtil.executeConfiguration(config, DefaultDebugExecutor.getDebugExecutorInstance()); //Debugs the application
