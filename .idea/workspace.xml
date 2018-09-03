@@ -7,9 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35fcef40-19fe-4f9f-956c-6e36b562e330" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RunWithArguments/Actions/DebugWithArguments.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RunWithArguments/Actions/DebugWithArguments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RunWithArguments/Actions/RunWithArguments.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RunWithArguments/Actions/RunWithArguments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RunWithArguments/Actions/DebugWithArguments$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RunWithArguments/Actions/RunWithArguments$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Actions/DebugWithArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/DebugWithArguments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Actions/RunWithArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Actions/RunWithArguments.java" afterDir="false" />
     </list>
@@ -31,7 +30,7 @@
     <session id="-459207041">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -57,13 +56,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="147" />
+          <entry key="JAVA" value="286" />
           <entry key="XML" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="147" />
+          <entry key="java" value="286" />
           <entry key="xml" value="20" />
         </counts>
       </usages-collector>
@@ -74,17 +73,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Actions/DebugWithArguments.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="232" column="13" selection-start-line="232" selection-start-column="13" selection-end-line="232" selection-end-column="13" />
-              <folding>
-                <element signature="e#6741#6742#0" expanded="true" />
-                <element signature="e#6789#6790#0" expanded="true" />
-                <element signature="e#6859#6860#0" expanded="true" />
-                <element signature="e#6910#6911#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="412">
+              <caret line="116" column="49" selection-start-line="116" selection-start-column="49" selection-end-line="116" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -107,15 +100,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Actions/RunWithArguments.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="150" column="35" selection-start-line="150" selection-end-line="266" />
+            <state relative-caret-position="486">
+              <caret line="150" column="49" selection-start-line="150" selection-start-column="49" selection-end-line="150" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#9471#9472#0" expanded="true" />
-                <element signature="e#9519#9520#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,8 +134,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
-        <option value="$PROJECT_DIR$/src/Actions/RunWithArguments.java" />
         <option value="$PROJECT_DIR$/src/Actions/DebugWithArguments.java" />
+        <option value="$PROJECT_DIR$/src/Actions/RunWithArguments.java" />
       </list>
     </option>
   </component>
@@ -222,7 +213,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535889586401" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535935614362" />
     <property name="last_opened_file_path" value="$USER_HOME$/Competitive Programming" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -305,7 +296,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1633" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49457702" visible="true" weight="0.17968254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -357,14 +347,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Actions/DebugWithArguments.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="232" column="13" selection-start-line="232" selection-start-column="13" selection-end-line="232" selection-end-column="13" />
-          <folding>
-            <element signature="e#6741#6742#0" expanded="true" />
-            <element signature="e#6789#6790#0" expanded="true" />
-            <element signature="e#6859#6860#0" expanded="true" />
-            <element signature="e#6910#6911#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="412">
+          <caret line="116" column="49" selection-start-line="116" selection-start-column="49" selection-end-line="116" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -384,12 +368,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Actions/RunWithArguments.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="150" column="35" selection-start-line="150" selection-end-line="266" />
+        <state relative-caret-position="486">
+          <caret line="150" column="49" selection-start-line="150" selection-start-column="49" selection-end-line="150" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#9471#9472#0" expanded="true" />
-            <element signature="e#9519#9520#0" expanded="true" />
           </folding>
         </state>
       </provider>
