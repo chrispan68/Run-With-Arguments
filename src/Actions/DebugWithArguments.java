@@ -114,7 +114,7 @@ public class DebugWithArguments extends AnAction {
             apconfig.setWorkingDirectory(proj.getBaseDir().getPath()); //Sets the working directory to the directory of the project
             apconfig.setProgramParameters(a); //Prompts the user to enter program parameters
             apconfig.setModuleName(mod.getName()); //Sets the module name in the application configuration
-            apconfig.getBeforeRunTasks().clear();
+            if(!apconfig.getBeforeRunTasks().isEmpty())apconfig.getBeforeRunTasks().clear();
             prev = rm.getConfigurationTemplate(apconfig.getFactory()); //Next few lines set the settings to the default settings
             config.setTemporary(prev.isTemporary());
             config.setActivateToolWindowBeforeRun(prev.isActivateToolWindowBeforeRun());
